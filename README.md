@@ -1,12 +1,13 @@
-# Proximal Mapping for Deep Regularization
+# CONTRASTIVE UNSUPERVISED LEARNING FOR SPEECH EMOTION RECOGNITION
 
-This repository provides the code for the paper 
+This repository aims to provide more technical details of the paper
 <br>
 [CONTRASTIVE UNSUPERVISED LEARNING FOR SPEECH EMOTION RECOGNITION](http://)
 <br>
 
-### Network Archietecture 
+### Quick description
 
+![network](./imgs/precpc.png)
 ### Datasets
 
 ### Experiments
